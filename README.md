@@ -18,9 +18,9 @@ Use the lyrics.ovh API to search by either song or artist. The search results ar
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/57517804/112621744-12039d80-8e65-11eb-96ce-0013c092faa9.png)
 
-[Demo]()
+[Demo](https://zen-ramanujan-063744.netlify.app)
 
 ## Built With
 
